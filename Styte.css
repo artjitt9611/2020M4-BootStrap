@@ -1,8 +1,6 @@
-div{
-    
-    border: 1px solid;
+[class*-'col-']{
+    border: 1px solid black;
 }
-.row justify-content-end>div{
-    background-color: antiquewhite;
-
+div{
+    border: 1px solid black;
 }
